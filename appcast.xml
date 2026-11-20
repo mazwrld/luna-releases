@@ -2,5 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Luna</title>
+    <item>
+      <title>Luna 0.2.0</title>
+      <pubDate>Fri, 20 Nov 2026 21:37:39 GMT</pubDate>
+      <sparkle:version>90</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>The first Luna you install from a download.</p>
+<ul><li><b>Luna updates itself.</b> It checks once a day and asks before installing. You can also pick Luna → Check for Updates….</li><li><b>Updates never lose your Books.</b> Before a new version opens them, Luna keeps a copy in <code>Before updates</code>, next to your Books.</li><li><b>Pick the app icon</b> in Settings → General: one that matches the accent, or one of nine styles. They go dark with your Mac.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/mazwrld/luna-releases/releases/download/v0.2.0/Luna-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="QF3iPBbgdOmb2hoycqDODD2EiVBLMKq3WfneVOw0dPZiAwdew2Sk8gat2DY1gbRe7bZx9jU7ygnNb9evocUlAA==" length="4888211"/>
+    </item>
   </channel>
 </rss>
