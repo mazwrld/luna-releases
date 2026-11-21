@@ -3,6 +3,18 @@
   <channel>
     <title>Luna</title>
     <item>
+      <title>Luna 0.2.2</title>
+      <pubDate>Sat, 21 Nov 2026 18:46:35 GMT</pubDate>
+      <sparkle:version>112</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>A fix for the macOS window look.</p>
+<ul><li><b>The macOS window fits again.</b> With Window set to macOS in Settings, Set the Budget no longer pushes the sidebar, the page and To check off the window.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/mazwrld/luna-releases/releases/download/v0.2.2/Luna-0.2.2.dmg" type="application/octet-stream" sparkle:edSignature="3VlIu5N7K5jsyfdUjnEHLpZ7IrJ+ZTpSvZsWrnVJqxoYYw4xgqTzuFMHfGESCLD7zwKeBFEPymej/6rs/TESDA==" length="5343916"/>
+    </item>
+    <item>
       <title>Luna 0.2.1</title>
       <pubDate>Sat, 21 Nov 2026 15:49:23 GMT</pubDate>
       <sparkle:version>110</sparkle:version>
