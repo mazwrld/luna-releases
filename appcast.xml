@@ -3,6 +3,18 @@
   <channel>
     <title>Luna</title>
     <item>
+      <title>Luna 0.2.1</title>
+      <pubDate>Sat, 21 Nov 2026 15:49:23 GMT</pubDate>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Luna feels more like a Mac app.</p>
+<ul><li><b>A new toolbar and window.</b> Glass toolbar, panes you can hide, Split View and full screen. Pick Framed or macOS in Settings.</li><li><b>Menus and shortcuts</b> for everything, plus Lock Luna and Help in the menu bar.</li><li><b>Undo and Redo</b> when you sort Transactions or work through To check.</li><li><b>Files work like Finder.</b> Quick Look a Statement, Reveal in Finder, or drop PDFs on Luna in the Dock.</li><li><b>A Dock menu</b> that never shows your money, and clicking the Dock icon brings the window back.</li><li><b>Steadier Statements and backups.</b> Merged PDFs read every Statement, and a backup that fails tries again.</li><li><b>Accept All</b> only shows on To check.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/mazwrld/luna-releases/releases/download/v0.2.1/Luna-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="tSaQC+qsap5FYiJt1l+VCnhPMvASQLMPWC85p/+hcnHliL+C/0MRbca+ewKMb75ybkfQBuQkq0m3ZAh0ve3yAg==" length="5343582"/>
+    </item>
+    <item>
       <title>Luna 0.2.0</title>
       <pubDate>Fri, 20 Nov 2026 21:37:39 GMT</pubDate>
       <sparkle:version>90</sparkle:version>
