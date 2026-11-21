@@ -3,6 +3,18 @@
   <channel>
     <title>Luna</title>
     <item>
+      <title>Luna 0.2.3</title>
+      <pubDate>Sat, 21 Nov 2026 20:01:21 GMT</pubDate>
+      <sparkle:version>114</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>A fix for the window&#x27;s title bar.</p>
+<ul><li><b>The title bar stays see-through.</b> When Luna took a while to open your Books, a gray strip could stay across the top of the window until you clicked around.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/mazwrld/luna-releases/releases/download/v0.2.3/Luna-0.2.3.dmg" type="application/octet-stream" sparkle:edSignature="bPlxmiact0FOXwW5VLzuElWKsDnb2WElwJGpk6L3JdSsNdCR6JZW6Od1gBSc84aZLFkLg92o+vz9fzHicjCCAA==" length="5341159"/>
+    </item>
+    <item>
       <title>Luna 0.2.2</title>
       <pubDate>Sat, 21 Nov 2026 18:46:35 GMT</pubDate>
       <sparkle:version>112</sparkle:version>
