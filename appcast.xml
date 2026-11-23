@@ -3,6 +3,18 @@
   <channel>
     <title>Luna</title>
     <item>
+      <title>Luna 0.2.4</title>
+      <pubDate>Mon, 23 Nov 2026 03:18:48 GMT</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+<p>Hovers that fit, and a fix for the macOS window look.</p>
+<ul><li><b>To check opens once in the macOS window.</b> It no longer grows slowly across the window again and again, and no light slides down its side.</li><li><b>Hovers fit what you point at.</b> Rows and cards light up edge to edge, without sticking out, cutting off a corner or casting their own shadow.</li><li><b>More things answer the pointer.</b> The back link, the Groups / Categories switch, the Category picker and the main buttons light up, and buttons press in when you click.</li><li><b>Budget rows line up.</b> Every Category shows what&#x27;s left, so the rows are all one height.</li><li><b>Card shadows aren&#x27;t cut off</b> at the edge of the month and year views.</li></ul>
+      ]]></description>
+      <enclosure url="https://github.com/mazwrld/luna-releases/releases/download/v0.2.4/Luna-0.2.4.dmg" type="application/octet-stream" sparkle:edSignature="bEy8qfxhxV3BH/1uDp3VuTv9O6wzDj7i71QoWIEkBaTTZ1R7PUQbEv9dAO8uQGShGBgn+nLvC+4GNppKYiyUBA==" length="5362498"/>
+    </item>
+    <item>
       <title>Luna 0.2.3</title>
       <pubDate>Sat, 21 Nov 2026 20:01:21 GMT</pubDate>
       <sparkle:version>114</sparkle:version>
